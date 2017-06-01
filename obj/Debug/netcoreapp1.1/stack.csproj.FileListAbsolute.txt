@@ -1,0 +1,8 @@
+C:\_WORKS\george\tests\stack\bin\Debug\netcoreapp1.1\stack.deps.json
+C:\_WORKS\george\tests\stack\bin\Debug\netcoreapp1.1\stack.runtimeconfig.json
+C:\_WORKS\george\tests\stack\bin\Debug\netcoreapp1.1\stack.runtimeconfig.dev.json
+C:\_WORKS\george\tests\stack\bin\Debug\netcoreapp1.1\stack.dll
+C:\_WORKS\george\tests\stack\bin\Debug\netcoreapp1.1\stack.pdb
+C:\_WORKS\george\tests\stack\obj\Debug\netcoreapp1.1\stack.AssemblyInfo.cs
+C:\_WORKS\george\tests\stack\obj\Debug\netcoreapp1.1\stack.dll
+C:\_WORKS\george\tests\stack\obj\Debug\netcoreapp1.1\stack.pdb
